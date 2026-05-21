@@ -124,15 +124,21 @@ plt.subplot(224); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 
 <img width="422" height="295" alt="image" src="https://github.com/user-attachments/assets/363c66b5-09cd-4b90-9567-68607b1c5221" />
 
+
 <img width="448" height="354" alt="image" src="https://github.com/user-attachments/assets/d6815c76-9c18-4e75-8c93-36c12f0cc736" />
+
 
 <img width="426" height="302" alt="image" src="https://github.com/user-attachments/assets/1e6b511d-fde6-4fc7-bc6e-1afad2a6a315" />
 
+
 <img width="439" height="328" alt="image" src="https://github.com/user-attachments/assets/e28d53f7-6ee9-4d0f-ac82-90df255e2981" />
+
 
 <img width="420" height="180" alt="image" src="https://github.com/user-attachments/assets/f656d74a-f305-4b50-b4e7-f92af53d5926" />
 
+
 <img width="774" height="290" alt="image" src="https://github.com/user-attachments/assets/8ae632bd-9dee-411e-9f88-d517e51a0e91" />
+
 
 <img width="782" height="338" alt="image" src="https://github.com/user-attachments/assets/160a46c9-7a70-430c-968a-7aa02ee5b960" />
 
