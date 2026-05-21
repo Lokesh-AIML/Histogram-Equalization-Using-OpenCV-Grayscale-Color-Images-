@@ -70,8 +70,7 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ## Program
 
 ### Developed By:
-**Name:** : Lokeshwaran S
-
+### Name: : Lokeshwaran S
 ### Register No: 212224240080
 
 ---
